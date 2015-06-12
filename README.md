@@ -28,8 +28,7 @@ it's currently being developed with GCC on Linux Mint 17
 
 ## Changelog
 
-###  2015-06-12
-      Wrote the previous versions log
+####  2015-06-12
       Wrote the help function
       Copied all code across from 3dizzle130113.cpp and got the
           program running
@@ -37,8 +36,8 @@ it's currently being developed with GCC on Linux Mint 17
       Created the README.md file
       Conor Stefanini, 12 June 2015
 
-###  2015-06-12
-      Created this file
+####  2015-06-12
+      Created XsAndObotIn3Dimensions.c
       Copied all previous versions of source code in to 
           XsAndObotIn3Dimensions/oldWork_preVersions
       Conor Stefanini, 8 June 2015
