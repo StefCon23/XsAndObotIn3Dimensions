@@ -1,0 +1,45 @@
+.
+./XsAndObotIn3Dimensions.c
+./oldWork_preVersions
+./oldWork_preVersions/botMeister-XsOs3D.cpp
+./oldWork_preVersions/botMan-oldCode-XsOs2D.cpp
+./oldWork_preVersions/dir
+./oldWork_preVersions/trippinBalls1212.cpp
+./oldWork_preVersions/3dBoots2710.cpp
+./oldWork_preVersions/3dimensionalDildo.cpp
+./oldWork_preVersions/3dBalls011112.cpp
+./oldWork_preVersions/oldBotman.cpp
+./oldWork_preVersions/new3dplayer.cpp
+./oldWork_preVersions/3dongXO1112.cpp
+./oldWork_preVersions/3dizzle130113.cpp
+./oldWork_preVersions/3Dbotmon.cpp
+total 504
+ 8 -rw-r--r-- 1 1000 1000  1821 Jun  8 17:43 botMeister-XsOs3D.cpp
+72 -rw-r--r-- 1 1000 1000 66218 Jun  8 17:43 botMan-oldCode-XsOs2D.cpp
+ 4 -rw-r--r-- 1 1000 1000   521 Jun 12 08:15 dir
+24 -rw-r--r-- 1 1000 1000 16764 Jun  8 17:43 trippinBalls1212.cpp
+44 -rw-r--r-- 1 1000 1000 37142 Jun  8 17:43 3dBoots2710.cpp
+ 4 drwxr-xr-x 2 1000 1000  4096 Jun 12 08:15 ./
+68 -rw-r--r-- 1 1000 1000 64137 Jun  8 17:43 3dimensionalDildo.cpp
+72 -rw-r--r-- 1 1000 1000 65903 Jun  8 17:43 3dBalls011112.cpp
+84 -rw-r--r-- 1 1000 1000 78022 Jun  8 17:43 oldBotman.cpp
+20 -rw-r--r-- 1 1000 1000 14483 Jun  8 17:43 new3dplayer.cpp
+36 -rw-r--r-- 1 1000 1000 30296 Jun  8 17:43 3dongXO1112.cpp
+52 -rw-r--r-- 1 1000 1000 48738 Jun 12 07:56 3dizzle130113.cpp
+12 -rw-r--r-- 1 1000 1000  6377 Jun  8 17:43 3Dbotmon.cpp
+ 4 drwxr-xr-x 3 1000 1000  4096 Jun 12 08:15 ../
+total 504
+drwxr-xr-x 2 robocop robocop  4096 Jun 12 08:15 .
+drwxr-xr-x 3 robocop robocop  4096 Jun 12 08:15 ..
+-rw-r--r-- 1 robocop robocop 65903 Dec 11  2012 3dBalls011112.cpp
+-rw-r--r-- 1 robocop robocop 37142 Nov  1  2012 3dBoots2710.cpp
+-rw-r--r-- 1 robocop robocop  6377 Oct 26  2012 3Dbotmon.cpp
+-rw-r--r-- 1 robocop robocop 64137 Dec 11  2012 3dimensionalDildo.cpp
+-rw-r--r-- 1 robocop robocop 48738 Apr 23  2013 3dizzle130113.cpp
+-rw-r--r-- 1 robocop robocop 30296 Jan 13  2013 3dongXO1112.cpp
+-rw-r--r-- 1 robocop robocop 66218 Oct 10  2012 botMan-oldCode-XsOs2D.cpp
+-rw-r--r-- 1 robocop robocop  1821 Oct 10  2012 botMeister-XsOs3D.cpp
+-rw-r--r-- 1 robocop robocop  1374 Jun 12 08:19 dir
+-rw-r--r-- 1 robocop robocop 14483 Oct 27  2012 new3dplayer.cpp
+-rw-r--r-- 1 robocop robocop 78022 Oct 13  2012 oldBotman.cpp
+-rw-r--r-- 1 robocop robocop 16764 Dec 12  2012 trippinBalls1212.cpp
